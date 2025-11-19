@@ -3,7 +3,7 @@ import { setupCounter } from "./counter.ts";
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <div>
-    hello lera
+    hello lera deploy
   </div>
 `;
 
